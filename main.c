@@ -8,7 +8,7 @@ Description : The Address Book Management System is a simple application used to
 #include <stdio.h>
 #include "contact.h"
 
-int main() 
+int main() //main funtion
 {
     int choice;
     AddressBook addressBook;
